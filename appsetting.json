@@ -1,0 +1,12 @@
+{
+    "ApiAddress": "http://192.168.100.11/api/messages?limit=50&offset=&until=&orderby=DESC",
+    "ApiDebugAddress": "https://metoa-2f-2022.1-10.net/api/messages?limit=30&offset=&until=&orderby=DESC",
+    "IsDebugApi": 1,
+    "MinimumRobotAmount": 10,
+    "ApiGetDuration": 3,
+    "EnvironmentDuration": 100,
+    "ShowRobotTriggerPositionZ": 40,
+    "RobotGenerateInterval": 3,
+    "PeopleStartAmount": 4135,
+    "CounterLabelIsOn": 1
+}
